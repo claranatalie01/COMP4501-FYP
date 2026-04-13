@@ -12,11 +12,22 @@ Data were obtained from BrightData.
 
 ## Project Structure
 
-- `eda/`  
-  Exploratory Data Analysis (EDA) notebooks, data visualizations, and related resources.
+- `data/`  
+  Contains raw and processed datasets for use of the project.
+  - `raw_data/` - Original data files (pan_raw.csv, sandal_raw.csv, etc.)
+  - `final_data/` - Cleaned and processed data files (pan_final.csv, etc.)
 
-- `machine_learning/`  
-  Machine learning pipeline and modeling scripts.
+- `notebooks/`  
+  Jupyter notebooks for data processing, EDA, and machine learning.
+  - `01_ProcessData.ipynb` - Data cleaning and preprocessing
+  - `02_EDA.ipynb` - Exploratory Data Analysis
+  - `03_MachineLearning.ipynb` - Machine learning models and evaluation
+
+- `outputs/`  
+  Generated outputs from analysis and models.
+  - `category_specific/` - Category-specific results
+  - `correlation_matrix/` - Correlation analysis outputs
+  - `skewness/` - Skewness analysis outputs
 
 ## Team
 
