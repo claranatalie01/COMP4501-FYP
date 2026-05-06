@@ -4,13 +4,12 @@
 
 ## 🎥 Demo – Dashboard
 
-https://github.com/user-attachments/assets/885614d5-d88f-4a9d-a3bf-5665c81b49e0
+https://github.com/user-attachments/assets/567824a8-d007-4c5f-9638-c6ecc0fce116
 
 ---
 ## 📊 Project Presentation
 View the slides (PDF):
-
-[Final Year Project PPT.pdf](https://github.com/user-attachments/files/27229007/FYP.PPT.pdf)
+[Final Year Project PPT.pdf](https://github.com/user-attachments/files/27423412/FYP.PPT.pdf)
 
 ## Objective
 
